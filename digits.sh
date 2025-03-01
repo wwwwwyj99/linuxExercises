@@ -8,4 +8,4 @@ for num in {1000..2000}; do
     fi
 done
 
-echo "The sum isshe $sum"
+echo "The sum is $sum"
