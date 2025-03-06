@@ -1,5 +1,3 @@
-rm_n.sh
-
 #!/bin/bash                                                                                                                                                          
 
 #inspect if there are 2 parameters                                                                                                                                   
